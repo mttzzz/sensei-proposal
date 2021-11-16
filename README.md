@@ -18,5 +18,5 @@
 - API возможность продлить срок лицензии на 6+1, 10+3 мес с возратом только счета, или счета и сразу активацией.
 
 # Ошибки
-![image](https://user-images.githubusercontent.com/16290052/142006469-f84c51db-8d65-4ea0-8a11-8f578c7dccb2.png)
+![image](https://user-images.githubusercontent.com/16290052/142006542-a7e07362-5583-496b-9196-c13cac8441ee.png)
 ![image](https://user-images.githubusercontent.com/16290052/141965443-b76a2988-2baf-4939-9a76-1015718f3c01.png)
